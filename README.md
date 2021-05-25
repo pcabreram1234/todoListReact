@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This is a Todos list react app. 
+Inside de app there is a navbar with the Posts link, when you visit it you will see a post collection render from
+the API https://jsonplaceholder.typicode.com/posts
+
 ## Available Scripts
 
 In the project directory, you can run:
